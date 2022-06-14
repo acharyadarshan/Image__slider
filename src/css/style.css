@@ -23,7 +23,7 @@
 
 .left__arrow {
     position: absolute;
-    background: url("/images/arrow.png") center no-repeat;
+    background: url("/images/more.png") center no-repeat;
     width: 45px;
     transform: rotate(180deg);
     height: 100%;
@@ -34,7 +34,7 @@
 
 .right__arrow {
     position: absolute;
-    background: url("/images/arrow.png") center no-repeat;
+    background: url("/images/more.png") center no-repeat;
     width: 45px;
     height: 100%;
     top: 8%;
